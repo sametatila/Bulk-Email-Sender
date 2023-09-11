@@ -1,7 +1,7 @@
 # Bulk-Email-Sender
 
 Just edit data/data.json file for yourself
-
+```
 {
     "smtp_server": "XXX",
     "smtp_port": "XXX",
@@ -13,3 +13,4 @@ Just edit data/data.json file for yourself
     "signature": "./data/XXX.html",
     "delay_time": 1.0
 }
+```
