@@ -14,3 +14,6 @@ Just edit data/data.json file for yourself
     "delay_time": 1.0
 }
 ```
+## Rules
+Add bulk emails with comma with no whitespace
+Add cc emails with comma with no whitespace
