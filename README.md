@@ -15,5 +15,5 @@ Just edit data/data.json file for yourself
 }
 ```
 ## Rules
-###Add bulk emails with comma with no whitespace__
+###Add bulk emails with comma with no whitespace<br />
 ###Add cc emails with comma with no whitespace
