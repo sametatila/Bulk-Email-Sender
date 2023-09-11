@@ -1,4 +1,4 @@
-# Bulk-Email-Sender
+# Bulk-Email-Sender with PyQt5 Gui
 
 Just edit data/data.json file for yourself
 ```
