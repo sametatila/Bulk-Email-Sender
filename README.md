@@ -17,3 +17,4 @@ Just edit data/data.json file for yourself
 ## Rules
 Add bulk emails with comma with no whitespace<br/>
 Add cc emails with comma with no whitespace<br/>
+Change delay time however you want. Just be careful not to spam
